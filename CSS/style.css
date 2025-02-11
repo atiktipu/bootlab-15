@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    inline height:0,8;
+}
+
+
+.nav-link{
+    font-family: "Open Sans", serif;
+    color: #29313D;
+    font-size: 18px;
+    font-weight:600;
+}
+
+
+/*Hader part Sart*/
+.ContectBtn{
+    padding: 20px 30px;
+    border-radius: 28px;
+    -webkit-border-redious:28px;
+    background: #8454F5;
+    color: #fff;
+    font-family: "Nunito", serif;
+    font-size: 18px;
+    font-weight:600;
+
+    
+}
+
+#bannarPart{
+    padding-top: 270px;
+    padding-bottom: 250px;
+    background: url(../Images/header\ content.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+/*Hader part End*/
+
+/*Hader part Sart*/
+/*Hader part End*/
+
+/*Hader part Sart*/
+/*Hader part End*/
+
+/*Hader part Sart*/
+/*Hader part End*/
+
+/*Hader part Sart*/
+/*Hader part End*/
+
+/*Hader part Sart*/
+/*Hader part End*/
+
+/*Hader part Sart*/
+/*Hader part End*/
